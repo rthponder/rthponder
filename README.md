@@ -1,8 +1,8 @@
-### 👋 Hey there! I'm Karthikeya Poondla
+### 👋 hey there! i'm karthikeya poondla
 
-- 🔭 Currently working on an independent machine learning project
-- 🌱 Learning web development, data structures, and algorithms myself
-- 🤝 Looking to collaborate on projects involving ml and ai
-- 📫 Reach me at: karthikeyapoondla@yahoo.com
-- 😄 Pronouns: he/him
-- 🍳 Fun fact: I can cook!
+- 🔭 currently working on an independent machine learning project
+- 🌱 learning web development, data structures, and algorithms myself
+- 🤝 looking to collaborate on projects involving ml and ai
+- 📫 reach me at: karthikeyapoondla@yahoo.com
+- 😄 pronouns: he/him
+- 🍳 fun fact: i can cook!
