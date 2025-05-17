@@ -5,4 +5,4 @@
 - 🤝 looking to collaborate on projects involving ml and ai
 - 📫 reach me at: karthikeyapoondla@yahoo.com
 - 😄 pronouns: he/him
-- 🍳 fun fact: i can cook!
+- 🍳 fun fact: it's raining there...
